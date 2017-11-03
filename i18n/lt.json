@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"bs-emoticons-desc": "Paverčia jaustukus tekste į paveikslėlius",
+	"bs-emoticons-error-validation-missing-symbol": "Klaida eilutėje $1: Nėra simbolio paveikslėliui „$2“.",
+	"bs-emoticons-error-validation-imagename": "Klaida eilutėje $1: Paveikslėlio pavadinimas „$2“ neleistinas.",
+	"bs-emoticons-error-validation-symbol": "Klaida eilutėje $1: Simbolis „$2“ neleistinas. Jis turi būti tarp dviejų ir dešimties simbolių."
+}

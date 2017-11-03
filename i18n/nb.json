@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"bs-emoticons-desc": "Viser smilefjes i tekst som bilder",
+	"bs-emoticons-error-validation-missing-symbol": "Feil i linje $1: Det er ikke noe symbol for bildet «$2».",
+	"bs-emoticons-error-validation-imagename": "Feil i linje $1: Bildetnavnet «$2» er ugyldig.",
+	"bs-emoticons-error-validation-symbol": "Feil i linje $1: Symbolet «$2» er ugyldig. Det må være mellom to og ti tegn langt."
+}

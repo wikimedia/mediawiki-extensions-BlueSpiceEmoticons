@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"bs-emoticons-desc": "Amuesa los emoticonos d'un testu como imaxes",
+	"bs-emoticons-error-validation-missing-symbol": "Error na llinia $1: Nun hai nengún símbolu pa la imaxe «$2».",
+	"bs-emoticons-error-validation-imagename": "Error na llinia $1: El nome d'imaxe «$2» nun ye válidu.",
+	"bs-emoticons-error-validation-symbol": "Error na llinia $1: el símbolu «$2» nun ye válidu. Tien que tener ente dos y diez caráuteres."
+}

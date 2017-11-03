@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giromin Cangiaxo"
+		]
+	},
+	"bs-emoticons-desc": "O renderizza i emoticon inte 'n testo comme immaggine",
+	"bs-emoticons-error-validation-missing-symbol": "Errô inta riga $1: no gh'è o scimbolo pe l'inmaggine \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Errô inta riga $1: o nomme de l'inmaggine \"$2\" o no l'è vallido.",
+	"bs-emoticons-error-validation-symbol": "Errô inta riga $1: o scimbolo \"$2\" o no l'è vallido. O dev'ese tra i doî e i dexe caratteri."
+}

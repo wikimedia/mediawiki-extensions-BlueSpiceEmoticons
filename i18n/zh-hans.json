@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"bs-emoticons-desc": "将文本表情符号渲染为图片",
+	"bs-emoticons-error-validation-missing-symbol": "第$1行错误：没有用于图片“$2”的符号。",
+	"bs-emoticons-error-validation-imagename": "第$1行错误：图片名“$2”无效。",
+	"bs-emoticons-error-validation-symbol": "第$1行错误：符号“$2”无效。它应介于2~10个字符之间。"
+}

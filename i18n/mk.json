@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"bs-emoticons-desc": "Исцртува смешковци во текст како слики",
+	"bs-emoticons-error-validation-missing-symbol": "Грешка во редот $1: Нема симбол за сликата „$2“.",
+	"bs-emoticons-error-validation-imagename": "Грешка во редот $1: Називот на сликата („$2“) е неважечки.",
+	"bs-emoticons-error-validation-symbol": "Грешка во редот $1: Симболот „$2“ е неважечки. Мора да има од два до десет знаци."
+}

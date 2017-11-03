@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"bs-emoticons-desc": "Representa emoticones in un texto como imagines",
+	"bs-emoticons-error-validation-missing-symbol": "Error in linea $1: Il non ha un symbolo pro le imagine \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Error in linea $1: Le nomine de imagine \"$2\" non es valide.",
+	"bs-emoticons-error-validation-symbol": "Error in linea $1: Le symbolo \"$2\" non es valide. Illo debe haber inter duo e dece characteres."
+}

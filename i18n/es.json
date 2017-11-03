@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"bs-emoticons-desc": "Muestra emoticonos como imágenes en un texto",
+	"bs-emoticons-error-validation-missing-symbol": "Error en la línea $1: no hay ningún símbolo para la imagen «$2».",
+	"bs-emoticons-error-validation-imagename": "Error en la línea $1: el nombre de imagen «$2» no es válido.",
+	"bs-emoticons-error-validation-symbol": "Error en la línea $1: el símbolo «$2» no es válido. Debe tener entre dos y diez caracteres."
+}

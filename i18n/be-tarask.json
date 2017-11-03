@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"bs-emoticons-desc": "Візуалізуе смайлікі з тэксту як выявы",
+	"bs-emoticons-error-validation-missing-symbol": "Памылка ў радку $1: няма сымбалю для выявы «$2».",
+	"bs-emoticons-error-validation-imagename": "Памылка ў радку $1: назва выявы «$2» няслушная.",
+	"bs-emoticons-error-validation-symbol": "Памылка ў радку $1: сымбаль «$2» няслушны. Ён павінен быць ад двух да дзесяці знакаў."
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Felipe L. Ewald",
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"bs-emoticons-desc": "Renderiza emoticons em um texto como imagens",
+	"bs-emoticons-error-validation-missing-symbol": "Erro na linha $1: Não existe nenhum símbolo para a imagem \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Erro na linha $1: O nome da imagem \"$2\" não é válido.",
+	"bs-emoticons-error-validation-symbol": "Erro na linha $1: O símbolo \"$2\" não é válido. Tem de ter entre dois a dez caracteres."
+}

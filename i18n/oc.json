@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"bs-emoticons-desc": "Aficha las emoticònas dins los tèxtes coma d'imatges",
+	"bs-emoticons-error-validation-missing-symbol": "Error a la linha $1 : I a pas de simbòl per l’imatge « $2 ».",
+	"bs-emoticons-error-validation-imagename": "Error a la linha $1 : Lo nom de l’imatge « $2 » es invalid.",
+	"bs-emoticons-error-validation-symbol": "Error a la linha $1 : Lo simbòl « $2 » es invalid. Deu far entre dos e dètz caractèrs."
+}

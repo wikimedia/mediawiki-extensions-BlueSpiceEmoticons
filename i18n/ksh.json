@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"bs-emoticons-desc": "Zeisch de Sümbohle, wi Laachjeseeeschter un esu jädd, en de Täxte als Belldsche aan.",
+	"bs-emoticons-error-validation-missing-symbol": "Fähler en de $1-te Reih: Mer han kei Sümbohl för dat Belldsche „$2“",
+	"bs-emoticons-error-validation-imagename": "Fähler en de $1-te Reih: Der Nahme „$2“ för et Belldsche es kappott.",
+	"bs-emoticons-error-validation-symbol": "Fähler en de $1-te Reih: Dat Sümbohl „$2“ es nit johd, et moß zwesche zwai un zehn Zeijsche lang sin."
+}

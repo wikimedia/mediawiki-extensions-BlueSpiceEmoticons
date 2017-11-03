@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Ltrlg"
+		]
+	},
+	"bs-emoticons-desc": "Affiche les émoticônes dans les textes comme des images",
+	"bs-emoticons-error-validation-missing-symbol": "Erreur à la ligne $1 : Il n’y a pas de symbole pour l’image « $2 ».",
+	"bs-emoticons-error-validation-imagename": "Erreur à la ligne $1 : Le nom de l’image « $2 » n’est pas valide.",
+	"bs-emoticons-error-validation-symbol": "Erreur à la ligne $1 : Le symbole « $2 » n’est pas valide. Il doit faire entre deux et dix caractères."
+}

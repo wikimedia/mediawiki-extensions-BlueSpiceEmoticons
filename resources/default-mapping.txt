@@ -1,0 +1,18 @@
+ smile.png           :-)     :)
+ sad.png             :-(     :(
+ neutral.png         :-|     :|
+ angry.png           :-@     :@
+ wink.png            ;-)     ;)
+ smile-big.png       :D     :-D
+ thinking.png        :-/     :/
+ shut-mouth.png      :-X     :X
+ crying.png          :'(
+ shock.png           :-O
+ confused.png        :-S
+ glasses-cool.png    8-)
+ laugh.png           :lol:
+ yawn.png            (:|
+ good.png            :good:
+ bad.png             :bad:
+ embarrassed.png     :-[
+ shame.png           [-X     [-x

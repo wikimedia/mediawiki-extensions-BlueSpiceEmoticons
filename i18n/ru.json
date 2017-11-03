@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alexandr Efremov",
+			"Okras"
+		]
+	},
+	"bs-emoticons-desc": "Визуализирует смайлики из текста в изображения",
+	"bs-emoticons-error-validation-missing-symbol": "Ошибка в $1 строке: Нет символа для изображения «$2».",
+	"bs-emoticons-error-validation-imagename": "Ошибка в $1 строке: название изображения \"$2\" не допустима.",
+	"bs-emoticons-error-validation-symbol": "Ошибка в $1 строке: символ \"$2\" недопустим. Он должен быть от двух до десяти знаков."
+}

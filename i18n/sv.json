@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"WikiPhoenix",
+			"Lokal Profil"
+		]
+	},
+	"bs-emoticons-desc": "Renderar uttryckssymboler i text som bilder",
+	"bs-emoticons-error-validation-missing-symbol": "Fel i rad $1: Det finns ingen symbol för bilden \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Fel i rad $1: Bildnamnet \"$2\" är inte giltigt.",
+	"bs-emoticons-error-validation-symbol": "Fel i rad $1: Symbolen \"$2\" är inte giltigt. Det måste vara mellan två och tio tecken."
+}

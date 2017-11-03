@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stephan Muggli <muggli@hallowelt.biz>"
+		]
+	},
+	"bs-emoticons-desc": "Renders emoticons in a text as images",
+	"bs-emoticons-error-validation-missing-symbol": "Error in line $1: There is no symbol for the image \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Error in line $1: The image name \"$2\" is not valid.",
+	"bs-emoticons-error-validation-symbol": "Error in line $1: The symbol \"$2\" is not valid. It has to be between two and ten characters."
+}

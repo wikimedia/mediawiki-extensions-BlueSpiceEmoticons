@@ -1,0 +1,30 @@
+{
+	"name": "BlueSpiceEmoticons",
+	"version": "3.0.0-alpha",
+	"url": "https://help.bluespice.com/index.php/Emoticons",
+	"author": [
+		"Alex Wollangk",
+		"Marc Reymann",
+		"Sebastian Ulbricht",
+		"Mathias Scheer",
+		"Robert Vogel",
+		"Patric Wirth"
+	],
+	"descriptionmsg": "bs-emoticons-desc",
+	"type": "bluespice",
+	"bsgExtensions": {
+		"BlueSpiceEmoticons": {
+			"className": "Emoticons",
+			"extPath": "/BlueSpiceEmoticons"
+		}
+	},
+	"MessagesDirs": {
+		"BlueSpiceEmoticons": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"Emoticons": "Emoticons.class.php"
+	},
+	"manifest_version": 1
+}

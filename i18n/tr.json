@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sayginer"
+		]
+	},
+	"bs-emoticons-error-validation-symbol": "$1. satırda hata: \"$2\" sembolü geçerli değil. İki ila on karakter olmalı."
+}

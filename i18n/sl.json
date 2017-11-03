@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Skalcaa"
+		]
+	},
+	"bs-emoticons-desc": "Pretvori tekstovne smeškote v slike",
+	"bs-emoticons-error-validation-missing-symbol": "Napaka v vrstici $1: Simbol slike \"$2\" ni na voljo.",
+	"bs-emoticons-error-validation-imagename": "Napaka v vrstici $1: Ime slike \"$2\" ni pravilno.",
+	"bs-emoticons-error-validation-symbol": "Napaka v vrstici $1: Simbol \"$2\" ni veljaven. Dolžina mora biti med 2 in 10 znaki."
+}

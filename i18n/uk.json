@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ата",
+			"Andriykopanytsia"
+		]
+	},
+	"bs-emoticons-desc": "Візуалізує смайлики із тексту як зображення",
+	"bs-emoticons-error-validation-missing-symbol": "Помилка у $1 рядку: немає символа для зображення \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Помилка у $1 рядку: назва зображення \"$2\" не допустима.",
+	"bs-emoticons-error-validation-symbol": "Помилка у $1 рядку: символ \"$2\" недопустимий. Він має бути від двох до десяти знаків."
+}

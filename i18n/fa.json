@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alirezaaa",
+			"Signal89"
+		]
+	},
+	"bs-emoticons-desc": "شکلک‌ها در یک متن را نمایش می‌دهد",
+	"bs-emoticons-error-validation-missing-symbol": "خطا در خط $1: هیچ نمادی برای تصویر «$2» نیست.",
+	"bs-emoticons-error-validation-imagename": "خطا در خط $1: نام تصویر «$2» معتبر نیست.",
+	"bs-emoticons-error-validation-symbol": "خطا در خط $1: نماد «$2» معتبر نیست. باید بین دو و ده نویسه باشد."
+}

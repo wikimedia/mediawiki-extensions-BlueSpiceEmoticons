@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"bs-emoticons-desc": "Fà vedè le emoticon jndr'à 'nu teste cumme immaggine",
+	"bs-emoticons-error-validation-missing-symbol": "Errore jndr'à linèe $1: Non ge ste 'nu simbole pe l'immaggine \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Errore jndr'à linèe $1: L'immaggine cu nome \"$2\" non gè valide.",
+	"bs-emoticons-error-validation-symbol": "Errore jndr'à linèe $1: 'U simbole \"$2\" non g'è valide. Adda avè 'mbrà doje e dece carattere."
+}

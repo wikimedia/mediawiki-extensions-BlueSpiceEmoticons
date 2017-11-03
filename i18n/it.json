@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Selven",
+			"Beta16"
+		]
+	},
+	"bs-emoticons-desc": "Renderizza emoticon in un testo come immagini",
+	"bs-emoticons-error-validation-missing-symbol": "Errore nella linea $1: non c'è il simbolo per l'immagine \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Errore nella linea $1: il nome dell'immagine \"$2\" non è valido.",
+	"bs-emoticons-error-validation-symbol": "Errore nella linea $1: il simbolo \"$2\" non è valido. Deve essere tra i due e i dieci caratteri."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"bs-emoticons-desc": "Mostra os emoticonos dun texto como imaxes",
+	"bs-emoticons-error-validation-missing-symbol": "Erro na liña $1: non hai ningún símbolo para a imaxe «$2».",
+	"bs-emoticons-error-validation-imagename": "Erro na liña $1: o nome de imaxe \"$2\" non é válido.",
+	"bs-emoticons-error-validation-symbol": "Erro na liña $1: o símbolo \"$2\" non é válido. Debe ter entre dous e dez caracteres."
+}
