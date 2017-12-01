@@ -3,11 +3,12 @@
 		"authors": [
 			"Stephan Muggli <muggli@hallowelt.biz>",
 			"Robby",
-			"Ата"
+			"Ата",
+			"Mar(c)"
 		]
 	},
 	"bs-emoticons-desc": "Used in [{{canonicalurl:Special:WikiAdmin|mode=ExtensionInfo}} Special:WikiAdmin?mode=ExtensionInfo], description of emoticons extension",
-	"bs-emoticons-error-validation-missing-symbol": "Error message for error in line $1: There is no symbol for the image \"$2\".\n\n$1 is line number where the error occurred, $2 is the name of the image.",
+	"bs-emoticons-error-validation-missing-symbol": "Error message for error in line $1: There is no symbol for the image \"$2\".\n* $1 is line number where the error occurred,\n* $2 is the name of the image.",
 	"bs-emoticons-error-validation-imagename": "Error message for error in line $1: The image name \"$2\" is not valid.\n* $1 is line number where the error occurred,\n* $2 is the name of the image.",
-	"bs-emoticons-error-validation-symbol": "Error message for error in line $1: The symbol \"$2\" is not valid. It has to be between two and ten characters.\n $1 is line number where the error occurred, $2 is the name of the symbol."
+	"bs-emoticons-error-validation-symbol": "Error message for error in line $1: The symbol \"$2\" is not valid. It has to be between two and ten characters.\n* $1 is line number where the error occurred,\n* $2 is the name of the symbol."
 }

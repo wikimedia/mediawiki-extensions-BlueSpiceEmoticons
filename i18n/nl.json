@@ -3,11 +3,12 @@
 		"authors": [
 			"Esketti",
 			"McDutchie",
-			"Siebrand"
+			"Siebrand",
+			"Mar(c)"
 		]
 	},
 	"bs-emoticons-desc": "Geeft emoticons in tekst weer als afbeeldingen",
-	"bs-emoticons-error-validation-missing-symbol": "Fout in regel $1: er is geen symbool voor de afbeelding \"$2\".",
-	"bs-emoticons-error-validation-imagename": "Fout in regel $1: de naam van de afbeelding \"$2\" is niet geldig.",
-	"bs-emoticons-error-validation-symbol": "Fout in regel $1: het symbool \"$2\" is niet geldig. Het moet tussen de twee en tien tekens hebben."
+	"bs-emoticons-error-validation-missing-symbol": "Fout in regel $1: Er is geen symbool voor de afbeelding \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Fout in regel $1: De afbeeldingsnaam \"$2\" is niet geldig.",
+	"bs-emoticons-error-validation-symbol": "Fout in regel $1: Het symbool \"$2\" is niet geldig. Het moet tussen twee en tien tekens hebben."
 }
