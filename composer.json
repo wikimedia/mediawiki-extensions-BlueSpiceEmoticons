@@ -2,7 +2,7 @@
 	"name": "mediawiki/blue-spice-emoticons",
 	"type": "mediawiki-extension",
 	"description": "Renders emoticons in a text as images",
-	"license": "GPL-3.0",
+	"license": "GPL-3.0-only",
 	"require": {
 		"composer/installers": "~1.0"
 	},
