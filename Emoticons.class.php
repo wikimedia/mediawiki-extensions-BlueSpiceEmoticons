@@ -47,10 +47,8 @@ class Emoticons extends BsExtensionMW {
 	 * Initialization of Authors extension
 	 */
 	protected function initExt() {
-		wfProfileIn( 'BS::'.__METHOD__ );
 		$this->setHook( 'OutputPageBeforeHTML' );
 		$this->setHook( 'PageContentSave' );
-		wfProfileOut( 'BS::'.__METHOD__ );
 	}
 
 	/**
@@ -68,7 +66,6 @@ class Emoticons extends BsExtensionMW {
 		if ( in_array( $sCurrentAction, array('edit', 'history', 'delete', 'watch') ) ) return true;
 		if ( in_array( $oCurrentTitle->getNamespace(), array( NS_SPECIAL, NS_MEDIAWIKI ) ) ) return true;
 
-		wfProfileIn( 'BS::'.__METHOD__ );
 		$sKey = BsCacheHelper::getCacheKey( 'BlueSpice', 'Emoticons' );
 		$aMapping = BsCacheHelper::get( $sKey );
 
@@ -141,7 +138,6 @@ class Emoticons extends BsExtensionMW {
 			$sText
 		);
 
-		wfProfileOut( 'BS::'.__METHOD__ );
 		return true;
 	}
 
