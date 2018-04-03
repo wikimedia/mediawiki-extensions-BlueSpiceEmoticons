@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Guycn2"
+		]
+	},
+	"bs-emoticons-desc": "עיצוב סמלילי רגשות (אמוג'ים) בטקסט בתור תמונות",
+	"bs-emoticons-error-validation-missing-symbol": "שגיאה בשורה $1: אין סמל עבור התמונה \"$2\".",
+	"bs-emoticons-error-validation-imagename": "שגיאה בשורה $1: שם התמונה \"$2\" אינו תקין.",
+	"bs-emoticons-error-validation-symbol": "שגיאה בשורה $1: שם התמונה \"$2\" אינו תקין. עליו להכיל בין שניים לעשרה תווים."
+}
