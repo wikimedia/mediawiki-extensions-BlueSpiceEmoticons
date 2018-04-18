@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"bs-emoticons-desc": "Geuf emoticons in teks waer es plaetjes",
+	"bs-emoticons-error-validation-missing-symbol": "Fout in regel $1: Gei symbool veur plaetje \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Fout in regel $1: De plaetjesnaam \"$2\" is neet geldig.",
+	"bs-emoticons-error-validation-symbol": "Fout in regel $1: 't Symbool \"$2\" is neet geldig. 't Mót tösse de twieë en tieën teikes höbbe."
+}
