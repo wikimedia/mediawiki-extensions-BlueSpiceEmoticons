@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Maroen1990"
+			"Maroen1990",
+			"ديفيد"
 		]
 	},
-	"bs-emoticons-error-validation-imagename": "خطا في السطر $1:الصورة المسماة\"$2\" غير متاحة"
+	"bs-emoticons-desc": "يجسد المشاعر في النص كصور",
+	"bs-emoticons-error-validation-missing-symbol": "خطأ في السطر $1: لا يوجد رمز للصورة \"$2\".",
+	"bs-emoticons-error-validation-imagename": "خطا في السطر $1:الصورة المسماة\"$2\" غير متاحة",
+	"bs-emoticons-error-validation-symbol": "خطأ في السطر $1: الرمز \"$2\" غير صالح; يجب أن يكون بين اثنين وعشرة أحرف."
 }
