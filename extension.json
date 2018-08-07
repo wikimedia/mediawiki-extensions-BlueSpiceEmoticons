@@ -9,23 +9,37 @@
 		"Sebastian Ulbricht",
 		"Mathias Scheer",
 		"Robert Vogel",
-		"Patric Wirth"
+		"Patric Wirth",
+		"Peter Böhm"
 	],
 	"descriptionmsg": "bs-emoticons-desc",
 	"type": "bluespice",
-	"bsgExtensions": {
-		"BlueSpiceEmoticons": {
-			"className": "Emoticons",
-			"extPath": "/BlueSpiceEmoticons"
+	"attributes": {
+		"BlueSpiceFoundation": {
+			"Extensions": {
+				"BlueSpiceEmoticons": {
+					"className": "\\BlueSpice\\Emoticons\\Extension",
+					"extPath": "/BlueSpiceEmoticons"
+				}
+			}
 		}
+	},
+	"AutoloadNamespaces": {
+		"BlueSpice\\Emoticons\\":"src/"
+	},
+	"requires": {
+		"MediaWiki": ">= 1.31.0",
+		"extensions": {
+			"BlueSpiceFoundation": "*"
+		}
+	},
+	"Hooks": {
+		"OutputPageBeforeHTML": "\\BlueSpice\\Emoticons\\Hook\\OutputPageBeforeHTML\\ReplaceEmoticons::callback"
 	},
 	"MessagesDirs": {
 		"BlueSpiceEmoticons": [
 			"i18n"
 		]
 	},
-	"AutoloadClasses": {
-		"Emoticons": "Emoticons.class.php"
-	},
-	"manifest_version": 1
+	"manifest_version": 2
 }
