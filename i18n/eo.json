@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"bs-emoticons-desc": "Bildigas miensimbolojn en teksto kiel bildojn",
+	"bs-emoticons-error-validation-missing-symbol": "Eraro ĉe linio $1: Neniu simbolo por la bildo \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Eraro ĉe linio $1: La bildonomo \"$2\" ne estas valida.",
+	"bs-emoticons-error-validation-symbol": "Eraro ĉe linio $1: La simbolo \"$2\" ne estas valida. Ĝia longo devas esti inter du kaj dek skribsignoj."
+}
