@@ -25,7 +25,7 @@
  * @author     Sebastian Ulbricht
  * @author     Mathias Scheer <scheer@hallowelt.com>
  * @author     Robert Vogel <vogel@hallowelt.com>
- * @author     Patric Wirth <wirth@hallowelt.com>
+ * @author     Patric Wirth
  * @author     Peter Böhm
  * @package    BlueSpice_Extensions
  * @subpackage Emoticons
