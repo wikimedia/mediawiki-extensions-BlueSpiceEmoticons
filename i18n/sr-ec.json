@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zoranzoki21"
+		]
+	},
+	"bs-emoticons-desc": "Приказује емотиконе у тексту као слике",
+	"bs-emoticons-error-validation-missing-symbol": "Грешка у линији $1: Не постоји симбол за слику \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Грешка у линији $1: Назив слике \"$2\" није исправан.",
+	"bs-emoticons-error-validation-symbol": "Грешка у линији $1: Симбол \"$2\" није исправан, јер он мора да садржи између 2 до 10 карактера."
+}
