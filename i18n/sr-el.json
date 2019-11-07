@@ -1,0 +1,7 @@
+{
+	"@metadata": [],
+	"bs-emoticons-desc": "Prikazuje emotikone u tekstu kao slike",
+	"bs-emoticons-error-validation-missing-symbol": "Greška u liniji $1: Ne postoji simbol za sliku \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Greška u liniji $1: Naziv slike \"$2\" nije ispravan.",
+	"bs-emoticons-error-validation-symbol": "Greška u liniji $1: Simbol \"$2\" nije ispravan, jer on mora da sadrži između 2 do 10 karaktera."
+}
