@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sayginer"
+			"Sayginer",
+			"BaRaN6161 TURK"
 		]
 	},
+	"bs-emoticons-desc": "Metindeki ifadeleri görüntü olarak oluşturur",
+	"bs-emoticons-error-validation-missing-symbol": "$1 satırında hata: \"$2\" resmi için sembol yok.",
+	"bs-emoticons-error-validation-imagename": "$1 satırında hata: \"$2\" resim adı geçerli değil.",
 	"bs-emoticons-error-validation-symbol": "$1. satırda hata: \"$2\" sembolü geçerli değil. İki ila on karakter olmalı."
 }
