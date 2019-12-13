@@ -49,20 +49,24 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 		$sKey = BsCacheHelper::getCacheKey( 'BlueSpice', 'Emoticons' );
 		$mapping = BsCacheHelper::get( $sKey );
 		if ( $mapping == false ) {
-			$pathToEmoticons = $this->getConfig()->get( 'ScriptPath' ) . '/extensions/BlueSpiceEmoticons/emoticons';
+			$pathToEmoticons = $this->getConfig()->get( 'ScriptPath' )
+				. '/extensions/BlueSpiceEmoticons/emoticons';
 
 			$emoticons = [];
 			$imageReplacements = [];
 
 			foreach ( $this->mappingContent as $imageName => $emoticonslist ) {
 				$emoticonImageView = new \ViewBaseElement();
-				$emoticonImageView->setTemplate( ' <img border="0" src="' . $pathToEmoticons . '/{FILENAME}" alt="emoticon" />' );
+				$emoticonImageView->setTemplate(
+					' <img border="0" src="' . $pathToEmoticons . '/{FILENAME}" alt="emoticon" />'
+				);
 				$emoticonImageView->addData( [ 'FILENAME' => $imageName ] );
 				foreach ( $emoticonslist as $emote ) {
 					$emoticons[] = ' ' . $emote;
 					$emoticons[] = '&nbsp;' . $emote;
 					$emoticons[] = '&#160;' . $emote;
-					// the $imageReplacements array needs to filled parallel to $emoticons, so 3 additions are needed
+					// the $imageReplacements array needs to filled parallel to $emoticons,
+					// so 3 additions are needed
 					$imageReplacements[] = $emoticonImageView->execute();
 					$imageReplacements[] = $emoticonImageView->execute();
 					$imageReplacements[] = $emoticonImageView->execute();
