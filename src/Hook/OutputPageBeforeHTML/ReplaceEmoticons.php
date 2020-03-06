@@ -46,7 +46,7 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 	}
 
 	protected function doProcess() {
-		$cacheHelper = Services::getInstance()->getBSUtilityFactory()->getCacheHelper();
+		$cacheHelper = Services::getInstance()->getService( 'BSUtilityFactory' )->getCacheHelper();
 		$sKey = $cacheHelper->getCacheKey( 'BlueSpice', 'Emoticons' );
 		$mapping = $cacheHelper->get( $sKey );
 		if ( $mapping == false ) {
