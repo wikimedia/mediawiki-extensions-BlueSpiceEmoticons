@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Stephan Muggli <muggli@hallowelt.biz>",
+			"Mar(c)",
 			"Robby",
-			"Ата",
-			"Mar(c)"
+			"Stephan Muggli <muggli@hallowelt.biz>",
+			"Ата"
 		]
 	},
 	"bs-emoticons-desc": "Used in [{{canonicalurl:Special:WikiAdmin|mode=ExtensionInfo}} Special:WikiAdmin?mode=ExtensionInfo], description of emoticons extension",
