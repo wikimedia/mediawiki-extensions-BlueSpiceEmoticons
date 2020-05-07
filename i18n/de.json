@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Stephan Muggli <muggli@hallowelt.biz>",
 			"Metalhead64",
-			"Purodha"
+			"Purodha",
+			"Stephan Muggli <muggli@hallowelt.biz>"
 		]
 	},
 	"bs-emoticons-desc": "Zeigt Emoticons in Texten als Bildchen an",
