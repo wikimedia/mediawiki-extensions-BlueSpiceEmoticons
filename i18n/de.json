@@ -3,11 +3,12 @@
 		"authors": [
 			"Metalhead64",
 			"Purodha",
-			"Stephan Muggli <muggli@hallowelt.biz>"
+			"Stephan Muggli <muggli@hallowelt.biz>",
+			"Umherirrender"
 		]
 	},
 	"bs-emoticons-desc": "Zeigt Emoticons in Texten als Bildchen an",
-	"bs-emoticons-error-validation-missing-symbol": "Fehler in Zeile $1: Dem Bild \"$2\" ist kein Symbol zugeordnet.",
-	"bs-emoticons-error-validation-imagename": "Fehler in Zeile $1: Der Bildname \"$2\" ist nicht zulässig.",
-	"bs-emoticons-error-validation-symbol": "Fehler in Zeile $1: Das Symbol \"$2\" ist nicht zulässig. Es muss aus mindestens Zwei und maximal Zehn Zeichen bestehen"
+	"bs-emoticons-error-validation-missing-symbol": "Fehler in Zeile $1: Dem Bild „$2“ ist kein Symbol zugeordnet.",
+	"bs-emoticons-error-validation-imagename": "Fehler in Zeile $1: Der Bildname „$2“ ist nicht zulässig.",
+	"bs-emoticons-error-validation-symbol": "Fehler in Zeile $1: Das Symbol „$2“ ist nicht zulässig. Es muss aus mindestens Zwei und maximal Zehn Zeichen bestehen"
 }
