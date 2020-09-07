@@ -2,7 +2,7 @@
 
 namespace BlueSpice\Emoticons\Hook\OutputPageBeforeHTML;
 
-use BlueSpice\Services;
+use MediaWiki\MediaWikiServices;
 
 /* Hook-Handler for 'OutputPageBeforeHTML' (MediaWiki). Replaces Emoticon syntax with images.
  * @param ParserOutput $oParserOutput The ParserOutput object that corresponds to the page.
@@ -46,7 +46,8 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 	}
 
 	protected function doProcess() {
-		$cacheHelper = Services::getInstance()->getService( 'BSUtilityFactory' )->getCacheHelper();
+		$cacheHelper = MediaWikiServices::getInstance()->getService( 'BSUtilityFactory' )
+			->getCacheHelper();
 		$sKey = $cacheHelper->getCacheKey( 'BlueSpice', 'Emoticons' );
 		$mapping = $cacheHelper->get( $sKey );
 		if ( $mapping == false ) {
