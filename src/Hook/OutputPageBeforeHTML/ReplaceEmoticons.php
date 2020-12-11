@@ -66,8 +66,12 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 					$emoticons[] = ' ' . $emote;
 					$emoticons[] = '&nbsp;' . $emote;
 					$emoticons[] = '&#160;' . $emote;
+					// non-breaking space " ", "⍽". workaround for Extension:Lingo
+					// breaks spaces on AlternateParserOutput. ERM:22090
+					$emoticons[] = ' ' . $emote;
 					// the $imageReplacements array needs to filled parallel to $emoticons,
-					// so 3 additions are needed
+					// so 4 additions are needed
+					$imageReplacements[] = $emoticonImageView->execute();
 					$imageReplacements[] = $emoticonImageView->execute();
 					$imageReplacements[] = $emoticonImageView->execute();
 					$imageReplacements[] = $emoticonImageView->execute();
@@ -87,7 +91,6 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 		$this->text = preg_replace_callback(
 			"/(?<=>)[^><]+?(?=<)/", $callable, $this->text
 		);
-
 		return true;
 	}
 
