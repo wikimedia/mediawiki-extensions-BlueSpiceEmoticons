@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sayginer",
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"Sayginer"
 		]
 	},
-	"bs-emoticons-error-validation-symbol": "$1. satırda hata: \"$2\" sembolü geçerli değil. İki ila on karakter olmalı.",
+	"bs-emoticons-error-validation-symbol": "$1. satırda hata: \"$2\" sembolü geçerli değil. İki ile on karakter arasında olmalı.",
 	"bs-emoticons-desc": "Metindeki ifadeleri görüntü olarak oluşturur",
 	"bs-emoticons-error-validation-missing-symbol": "$1 satırında hata: \"$2\" resmi için sembol yok.",
 	"bs-emoticons-error-validation-imagename": "$1 satırında hata: \"$2\" resim adı geçerli değil."

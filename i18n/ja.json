@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"bs-emoticons-desc": "テキストの絵文字を画像としてレンダリングする",
+	"bs-emoticons-error-validation-missing-symbol": "$1 行目にエラーがあります: 画像 \"$2\" には記号がありません。",
+	"bs-emoticons-error-validation-imagename": "$1 行目にエラーがあります: 画像の名前 \"$2\" は無効です。"
+}
