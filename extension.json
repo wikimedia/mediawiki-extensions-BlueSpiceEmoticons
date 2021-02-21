@@ -25,7 +25,7 @@
 		}
 	},
 	"AutoloadNamespaces": {
-		"BlueSpice\\Emoticons\\":"src/"
+		"BlueSpice\\Emoticons\\": "src/"
 	},
 	"requires": {
 		"MediaWiki": ">= 1.35.0",
