@@ -3,11 +3,12 @@
 		"authors": [
 			"Gomoko",
 			"Ltrlg",
-			"Thibaut120094"
+			"Thibaut120094",
+			"Verdy p"
 		]
 	},
-	"bs-emoticons-desc": "Affiche les émoticônes dans les textes comme des images",
-	"bs-emoticons-error-validation-missing-symbol": "Erreur à la ligne $1 : Il n’y a pas de symbole pour l’image « $2 ».",
-	"bs-emoticons-error-validation-imagename": "Erreur à la ligne $1 : Le nom de l’image « $2 » n’est pas valide.",
-	"bs-emoticons-error-validation-symbol": "Erreur à la ligne $1 : Le symbole « $2 » n’est pas valide. Il doit faire entre deux et dix caractères."
+	"bs-emoticons-desc": "Affiche sous forme d’images les émoticônes dans les textes",
+	"bs-emoticons-error-validation-missing-symbol": "Erreur à la ligne $1 : il n’y a aucun symbole pour l’image « $2 ».",
+	"bs-emoticons-error-validation-imagename": "Erreur à la ligne $1 : le nom de l’image « $2 » n’est pas valide.",
+	"bs-emoticons-error-validation-symbol": "Erreur à la ligne $1 : le symbole « $2 » n’est pas valide. Il doit avoir entre deux et dix caractères."
 }
