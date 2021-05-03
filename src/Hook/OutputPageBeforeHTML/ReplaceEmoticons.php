@@ -83,7 +83,7 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 			$cacheHelper->set( $sKey, $mapping );
 		}
 
-		$callable = function ( $matches ) use ( $mapping ) {
+		$callable = static function ( $matches ) use ( $mapping ) {
 			return strlen( $matches[0] ) === 0 ? '' : str_replace(
 					$mapping['emoticons'], $mapping['replacements'], $matches[0]
 			);
