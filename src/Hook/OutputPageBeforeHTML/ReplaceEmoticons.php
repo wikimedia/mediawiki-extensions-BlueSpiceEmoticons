@@ -58,9 +58,11 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 			$imageReplacements = [];
 
 			foreach ( $this->mappingContent as $imageName => $emoticonslist ) {
+				$emoticonName = str_replace( '.png', '', $imageName );
 				$emoticonImageView = new \ViewBaseElement();
 				$emoticonImageView->setTemplate(
-					' <img border="0" src="' . $pathToEmoticons . '/{FILENAME}" alt="emoticon" />'
+					' <img border="0" src="' . $pathToEmoticons . '/{FILENAME}" alt="emoticon-'
+						. $emoticonName . '" />'
 				);
 				$emoticonImageView->addData( [ 'FILENAME' => $imageName ] );
 				foreach ( $emoticonslist as $emote ) {
