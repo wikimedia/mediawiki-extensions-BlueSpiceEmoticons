@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"bs-emoticons-error-validation-missing-symbol": "$1줄에 오류가 있습니다: \"$2\" 이미지에 심볼이 없습니다.",
+	"bs-emoticons-error-validation-imagename": "$1줄에 오류가 있습니다: \"$2\" 이미지 이름이 유효하지 않습니다.",
+	"bs-emoticons-error-validation-symbol": "$1줄에 오류가 있습니다: \"$2\" 심볼이 유효하지 않습니다. 2~10자 사이여야 합니다."
+}
