@@ -26,5 +26,11 @@
 	},
 	"extra": {
 		"installer-name": "BlueSpiceEmoticons"
+	},
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true
+		}
 	}
+
 }
