@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aefgh39622"
+			"Aefgh39622",
+			"背番号4のエース"
 		]
 	},
 	"bs-emoticons-desc": "テキストの絵文字を画像としてレンダリングする",
 	"bs-emoticons-error-validation-missing-symbol": "$1 行目にエラーがあります: 画像 \"$2\" には記号がありません。",
-	"bs-emoticons-error-validation-imagename": "$1 行目にエラーがあります: 画像の名前 \"$2\" は無効です。"
+	"bs-emoticons-error-validation-imagename": "$1 行目にエラーがあります: 画像の名前 \"$2\" は無効です。",
+	"bs-emoticons-error-validation-symbol": "行$1のエラー: 記号 \" $2 \" は無効です。2～10文字にする必要があります。"
 }
