@@ -7,6 +7,6 @@
 	},
 	"bs-emoticons-desc": "Текстағы йылмайликты рәсемгә әйләндерә",
 	"bs-emoticons-error-validation-missing-symbol": "$1 юлда хата бар: «$2» рәсеме өсөн символ юҡ.",
-	"bs-emoticons-error-validation-imagename": "$1 юлда хата бар: «$2» рәсеме рөхсәт ителмәй.",
-	"bs-emoticons-error-validation-symbol": "$1 юлда хата бар: «$2» рәсеме рәхсәт ителмәй. Унда 2-нән 10-ға тиклем символ булырға тейеш."
+	"bs-emoticons-error-validation-imagename": "$1 юлда хата бар: «$2» рәсем атамаһы рөхсәт ителмәй.",
+	"bs-emoticons-error-validation-symbol": "$1 юлда хата бар: «$2» символы рөхсәт ителмәй. Унда 2-нән 10-ға тиклем билдә булырға тейеш."
 }
