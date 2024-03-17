@@ -39,7 +39,7 @@ class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 		if ( in_array( $currentAction, [ 'edit', 'history', 'delete', 'watch' ] ) ) {
 			return true;
 		}
-		if ( in_array( $currentTitle->getNamespace(),  [ NS_SPECIAL, NS_MEDIAWIKI ] ) ) {
+		if ( in_array( $currentTitle->getNamespace(), [ NS_SPECIAL, NS_MEDIAWIKI ] ) ) {
 			return true;
 		}
 		return parent::skipProcessing();
