@@ -12,7 +12,7 @@ use MediaWiki\MediaWikiServices;
 
 class ReplaceEmoticons extends \BlueSpice\Hook\OutputPageBeforeHTML {
 
-	protected $mappingContent = [
+	protected array $mappingContent = [
 		"smile.png" => [ ":-)", ":)" ],
 		"sad.png" => [ ":-(", ":(" ],
 		"neutral.png" => [ ":-|", ":|" ],
