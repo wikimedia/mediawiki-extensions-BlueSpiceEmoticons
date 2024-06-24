@@ -34,7 +34,8 @@
 		}
 	},
 	"Hooks": {
-		"OutputPageBeforeHTML": "\\BlueSpice\\Emoticons\\Hook\\OutputPageBeforeHTML\\ReplaceEmoticons::callback"
+		"@note": "With BlueSpice 4.5, emoticons are handeled by Extension:VisualEditorPlus. To avoid issues with Extension:CollabPads, we diable this functionality entirely. The extension can be archived with the next major release.",
+		"@OutputPageBeforeHTML": "\\BlueSpice\\Emoticons\\Hook\\OutputPageBeforeHTML\\ReplaceEmoticons::callback"
 	},
 	"MessagesDirs": {
 		"BlueSpiceEmoticons": [
