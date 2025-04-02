@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong",
-			"Tensama0415"
+			"Tensama0415",
+			"Ykhwong"
 		]
 	},
 	"bs-emoticons-desc": "텍스트로 쓰여진 이모티콘을 이미지로 렌더링합니다",
