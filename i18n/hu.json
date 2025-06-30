@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krisztina",
+			"Tacsipacsi"
+		]
+	},
+	"bs-emoticons-desc": "A szövegben található emotikonokat képként jeleníti meg",
+	"bs-emoticons-error-validation-missing-symbol": "Hiba a(z) $1. sorban: Nincs szimbólum a(z) „$2” képhez.",
+	"bs-emoticons-error-validation-imagename": "Hiba a(z) $1. sorban: A(z) „$2” képnév érvénytelen.",
+	"bs-emoticons-error-validation-symbol": "Hiba a(z) $1. sorban: A(z) „$2” szimbólum érvénytelen. Kettő és tíz karakter között kell lennie a hosszának."
+}
