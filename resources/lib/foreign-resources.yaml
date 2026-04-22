@@ -1,0 +1,7 @@
+pidgin-emoticons:
+  license: Unlicense
+  homepage: http://powabanga.github.io/pidgin-EAP/
+  authors: Hylke Bons
+  version: 73464b03
+  purl: pkg:github/PowaBanga/pidgin-EAP@73464b0374f438e8115e6009fdc6247d0ad221c3
+  type: doc-only

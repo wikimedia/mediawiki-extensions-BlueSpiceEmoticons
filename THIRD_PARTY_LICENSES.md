@@ -13,7 +13,7 @@ Images
 
 | Image | Author | Version | License |
 |:--------|:-------|:--------|:-------|
-| [Pidgin emoticons](http://powabanga.github.io/pidgin-EAP/) | Hylke Bons | - | unlicensed |
+| [Pidgin emoticons](http://powabanga.github.io/pidgin-EAP/) | Hylke Bons | 73464b03 | [Unlicense](https://unlicense.org/) |
 
 Fonts
 -----
