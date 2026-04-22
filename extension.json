@@ -42,5 +42,6 @@
 			"i18n"
 		]
 	},
+	"ForeignResourcesDir": "resources/lib",
 	"manifest_version": 2
 }
