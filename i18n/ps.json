@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"bs-emoticons-desc": "په ليک کې څېره‌‌گۍ د انځورونو په توگه وړاندې کوي",
+	"bs-emoticons-error-validation-missing-symbol": "$1 کرښه کې تېروتنه: د \"$2\" انځور لپاره هېڅ سمبول نشته.",
+	"bs-emoticons-error-validation-imagename": "$1 کرښه کې تېروتنه: د \"$2\" انځور نوم باوري نه دی.",
+	"bs-emoticons-error-validation-symbol": "$1 کرښه کې تېروتنه: \"$2\" سمبول باوري نه دی. دا بايد د دوو او لسو لوښو ترمنځ وي."
+}
