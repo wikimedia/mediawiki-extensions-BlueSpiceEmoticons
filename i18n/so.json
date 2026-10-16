@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"bs-emoticons-desc": "Waxay emoticon-yada qoraalka ugu soo bandhigtaa sawirro",
+	"bs-emoticons-error-validation-missing-symbol": "Khalad ku jira xariiq $1: Ma jiro calaamad sawirka \"$2\".",
+	"bs-emoticons-error-validation-imagename": "Khalad ku jira xariiq $1: Magaca sawirka \"$2\" ma aha mid sax ah.",
+	"bs-emoticons-error-validation-symbol": "Khalad ku jira xariiq $1: Calaamadda \"$2\" ma aha mid sax ah. Waa inay u dhexaysaa laba ilaa toban xaraf."
+}
