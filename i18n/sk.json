@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"bs-emoticons-desc": "Zobrazuje emotikony v texte ako obrázky",
+	"bs-emoticons-error-validation-missing-symbol": "Chyba na riadku $1: Pre obrázok „$2“ neexistuje žiadny symbol.",
+	"bs-emoticons-error-validation-imagename": "Chyba na riadku $1: Názov obrázka „$2“ nie je platný.",
+	"bs-emoticons-error-validation-symbol": "Chyba na riadku $1: Symbol „$2“ nie je platný. Musí mať dva až desať znakov."
+}
